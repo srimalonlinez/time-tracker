@@ -44,8 +44,8 @@ Time Tracker is a **Flutter-based mobile application** designed to help users tr
 
 ### 1. Clone the Repository
 
-```bash
-git clone <repository-url>
+git clone https://github.com/srimalonlinez/time-tracker
+
 cd time-tracker
 
 ### 2. Install Dependencies
