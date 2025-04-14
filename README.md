@@ -29,19 +29,6 @@ Time Tracker is a **Flutter-based mobile application** designed to help users tr
 
 ---
 
-## 📷 Screenshots
-
-> The app UI meets the provided design requirements. Below are descriptions of key screens:
-
-- **Home Screen (Empty)**: Placeholder when no entries exist.
-- **Home Screen (With Entries)**: Displays time entries with all details.
-- **Grouped by Projects**: Entries organized under each project.
-- **Add Time Entry**: Form with dropdowns, date picker, time and notes field.
-- **Manage Projects/Tasks**: Tabs to view, add, and delete.
-- **SharedPreferences Viewer**: Observe local storage via DevTools.
-
----
-
 ## 🧰 Dependencies
 
 | Package             | Version    | Purpose                       |
