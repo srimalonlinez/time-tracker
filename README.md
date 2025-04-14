@@ -60,16 +60,6 @@ flutter run -d chrome
 For Emulator or Device:
 flutter run
 
-📁 Project Structure
-
-lib/
-│
-├── dialogs/             # Dialog components (e.g., delete confirmation)
-├── models/              # Data models (Project, Task, TimeEntry)
-├── providers/           # State management classes
-├── screens/             # App screens (Home, Add Entry, Management)
-└── main.dart            # App entry point
-
 📝 Usage Guide
 
 ➕ Add a Time Entry
