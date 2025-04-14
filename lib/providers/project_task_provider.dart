@@ -29,9 +29,9 @@ class ProjectTaskProvider with ChangeNotifier {
     }
     if (_projects.isEmpty) {
       _projects.addAll([
-        Project(id: '1', name: 'Project Mahinda'),
-        Project(id: '2', name: 'Project Gotabhaya'),
-        Project(id: '3', name: 'Project Namal'),
+        Project(id: '1', name: 'Project Alpha'),
+        Project(id: '2', name: 'Project Beta'),
+        Project(id: '3', name: 'Project Gamma'),
       ]);
       _saveProjects();
     }
